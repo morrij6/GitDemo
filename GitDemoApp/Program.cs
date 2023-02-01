@@ -2,6 +2,8 @@ using GitDemoApp.Data;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 
+// adding a comment blah blah blah
+
 namespace GitDemoApp
 {
     public class Program
